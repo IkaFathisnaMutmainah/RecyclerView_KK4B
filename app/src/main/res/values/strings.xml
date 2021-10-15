@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">RecyclerView_Ika_15</string>
+    <string name="nameStudents">Student name</string>
+    <string name="descStudents">Description</string>
+</resources>
